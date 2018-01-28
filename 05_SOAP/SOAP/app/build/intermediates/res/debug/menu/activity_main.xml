@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_settings"
+        android:title="@string/menu_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>
+<!-- From: file:/media/datos/ramon/IES%20Al-Andalus/ASIGNATURAS/PMDM/webservices/Ejemplos_mios_para_alumnos/05_SOAP/SOAP/app/src/main/res/menu/activity_main.xml -->

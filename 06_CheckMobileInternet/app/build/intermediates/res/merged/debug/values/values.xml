@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ramon/Documentos/ASIGNATURAS/PMDM/materiales%20semiprencial%20HLC/webservices/Ejemplos_mios/06_CheckMobileInternet/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Android Internet Status Detector</string>
+    <string name="hello">Hello World, AndroidDetectInternetConnectionActivity!</string>
+</resources>

@@ -1,0 +1,6 @@
+La base de datos ha sido creada. La contraseña para el usuario u487370920_usu2 ha sido establecida a F7ymlNd9Tm
+
+Base de Datos MySQL	    Usuario MySQL	Host MySQL	
+u123456_alum 			u123456_usu2   	mysql.hostinger.es	
+
+ramonjmc.pe.hu 

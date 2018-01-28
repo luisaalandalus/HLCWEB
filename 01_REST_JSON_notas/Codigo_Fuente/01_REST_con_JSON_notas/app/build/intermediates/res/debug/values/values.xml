@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ramon/Documentos/ASIGNATURAS/PMDM/materiales%20semiprencial%20HLC/webservices/Ejemplos_mios_para_alumnos/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="alumno">Alumno</string>
+    <string name="app_name">Acceso a Notas</string>
+    <string name="contraseña">Contraseña</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/media/datos/ramon/IES%20Al-Andalus/ASIGNATURAS/PMDM/webservices/Ejemplos_mios_para_alumnos/05_SOAP/SOAP/app/src/main/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light"/>
+</resources>

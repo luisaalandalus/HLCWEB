@@ -1,0 +1,3 @@
+los scripts de php se van a situar en la carpeta rest_con_json dentro del directorio de trabajo del servidor, que en Linux está en /var/www/html
+
+hay que darle los permisos 755 a los archivos de la carpeta rest_con_json

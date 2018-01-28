@@ -1,0 +1,5 @@
+los scripts de php se van a situar en la carpeta rest_sin_json dentro del directorio de trabajo del servidor, que en Linux está en /var/www/html
+
+Hay que darle los permisos 755 a estos scripts PHP y archivos HTML de la carpeta rest_sin_json
+
+En este ejemplo falta implentar la funcionalidad del botón mostrar, que se verá en el siguiente ejemplo: rest_sin_json_parte2

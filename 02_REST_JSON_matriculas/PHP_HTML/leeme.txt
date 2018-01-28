@@ -1,0 +1,31 @@
+Ojo!!
+
+0.) No usar el alojamiento byethost.com, ya que da error porque incorpora unos mecanismos de seguridad que impiden mandar información a través de Java con get o post y PHP
+
+1.) Al crear la base de datos, las tablas y los campos de las tablas que sean de tipo VarChar se debe hacer con un juego de caracteres o cotejamiento adecuado como es utf8_unicode_ci (multilingüe,  no distingue entre mayúsculas y minúsculas) o utf8_bin (multilingüe, binario).
+
+Desde PHPMyAdmin se puede establecer fácilmente el cotejamiento.
+
+
+2.) También hay que comprobar, que versión de PHP y MySQL se está usando, ya que cada versión puede tener diferentes métodos o funciones compatibles o no con esa versión, por lo tanto hay que adaptar los scripts PHP a dicha versión.
+
+Por ejemplo en hostinger
+
+	// Hostinger usa una versión de php más avanzada => Extensión MySQL mejorada
+	// han quedado algunas funciones obsoletas o deprecated => mysql_connect => obsoleta => se usa en su lugar new mysqli()
+	// http://php.net/manual/es/book.mysqli.php
+
+3.) Hay dos versiones distintas de scripts PHP:
+
+	a.) Hostinger => Extensión MySQL mejorada para PHP
+        PHP Version 5.5.26
+	b.) instalación local de PHP y Apache => yo estoy usando Server version: Apache/2.4.7 (Ubuntu) Server built:   Oct 14 2015 14:20:21
+        y con PHP => PHP Version 5.5.9-1ubuntu4.14 => NO usa la Extensión MySQL mejorada
+        Versión MySQL => Server version: 5.5.46-0ubuntu0.14.04.2 (Ubuntu)
+
+
+
+
+	
+
+

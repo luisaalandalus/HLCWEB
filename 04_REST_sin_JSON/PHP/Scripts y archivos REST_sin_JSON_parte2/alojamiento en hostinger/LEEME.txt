@@ -1,0 +1,3 @@
+los scripts de php se van a situar en la carpeta rest_sin_json dentro del directorio de trabajo del servidor, normalmente debera ser en la misma carpeta donde esté alojada la página web (p.e ramonjmc.pe.hu), por ejemplo en hostinger será en: /public_html/rest_sin_json
+
+Aunque no siempre es necesario, hay que darle los permisos 755 a los archivos de la carpeta rest_sin_json => a los archivos PHP y HTML

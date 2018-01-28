@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/media/datos/ramon/IES%20Al-Andalus/ASIGNATURAS/PMDM/webservices/Ejemplos_mios_para_alumnos/05_SOAP/SOAP/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">WebserviceActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- From: file:/media/datos/ramon/IES%20Al-Andalus/ASIGNATURAS/PMDM/webservices/Ejemplos_mios_para_alumnos/05_SOAP/SOAP/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

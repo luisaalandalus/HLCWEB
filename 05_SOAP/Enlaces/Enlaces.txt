@@ -1,0 +1,6 @@
+http://programmerguru.com/android-tutorial/android-webservice-example/
+
+https://trinitytuts.com/load-data-from-soap-web-service-in-android-application/
+
+
+mirar => http://www.sitepoint.com/web-services-with-php-and-soap-1/
