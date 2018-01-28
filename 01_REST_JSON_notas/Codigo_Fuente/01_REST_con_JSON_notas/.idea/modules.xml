@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_REST_con_JSON_notas.iml" filepath="$PROJECT_DIR$/01_REST_con_JSON_notas.iml" />
       <module fileurl="file://$USER_HOME$/Documentos/ASIGNATURAS/PMDM/materiales semiprencial HLC/webservices/Ejemplos_mios_para_alumnos/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/01_REST_con_JSON_notas.iml" filepath="$USER_HOME$/Documentos/ASIGNATURAS/PMDM/materiales semiprencial HLC/webservices/Ejemplos_mios_para_alumnos/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/01_REST_con_JSON_notas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$USER_HOME$/Documentos/ASIGNATURAS/PMDM/materiales semiprencial HLC/webservices/Ejemplos_mios_para_alumnos/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/app.iml" filepath="$USER_HOME$/Documentos/ASIGNATURAS/PMDM/materiales semiprencial HLC/webservices/Ejemplos_mios_para_alumnos/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/app.iml" />
     </modules>
   </component>

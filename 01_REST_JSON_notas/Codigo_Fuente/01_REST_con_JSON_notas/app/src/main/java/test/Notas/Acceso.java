@@ -1,5 +1,5 @@
 package test.Notas;
-/* Código adaptado por Ramón José Martínez Cuevas 
+/* Código adaptado por Luisa Parra y Ramón José Martínez Cuevas
   del original de SEBASTIAN CIPOLAT 
   => https://github.com/Androideity/Login-en-Android-usando-PHP-y-MySQL*/
 
@@ -50,15 +50,14 @@ public class Acceso extends Activity {
     // IMPORTANTE PONER IP REAL DEL SERVIDOR DE BASE DE DATOS (no vale la de localhost o 127.0.0.1)
     // IP DE NUESTRO PC o IP O URL donde esté alojado el servidor en Internet
     // Ten en cuenta que la dir. IP de tu ordenador puede cambiar
-    String URL_SERVIDOR="ramonjmc.pe.hu"; // hostinger
-    //private final static String URL_SERVIDOR ="192.168.43.19"; // LA IP CAMBIARÁ DE UNA VEZ A OTRA COMPROBAR CON ifconfig
+    private final static String URL_SERVIDOR ="192.168.1.128"; // LA IP CAMBIARÁ DE UNA VEZ A OTRA COMPROBAR CON ifconfig
 
 
     // URL donde está el script acces.php
     // => permitirá conectarse a la BD y consultar si el alumno y contraseña son válidos
-    String URL_connect = "http://" + URL_SERVIDOR + "/acceso/acces.php";//ruta en donde están nuestros archivos
+    String URL_connect = "http://" + URL_SERVIDOR + "/hlc/acceso/acces.php";//ruta en donde están nuestros archivos
     // URL donde está el script acces_nota.php => para obtener la nota de un alumno
-    String URL_notas = "http://" + URL_SERVIDOR + "/acceso/acces_nota.php";//ruta en donde están nuestros archivos
+    String URL_notas = "http://" + URL_SERVIDOR + "/hlc/acceso/acces_nota.php";//ruta en donde están nuestros archivos
 
     private ProgressDialog pDialog; // barra de progreso (mostrada mientras se conecta a la BD)
 
@@ -104,7 +103,7 @@ public class Acceso extends Activity {
 
             public void onClick(View view) {
                 //Abre el navegador al formulario adduser.html => añadir alumnos (nombre y contraseña)
-                String url = "http://" + URL_SERVIDOR + "/acceso/adduser.html";
+                String url = "http://" + URL_SERVIDOR + "/hlc/acceso/adduser.html";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);

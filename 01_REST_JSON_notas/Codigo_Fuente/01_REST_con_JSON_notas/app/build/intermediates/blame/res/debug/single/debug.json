@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/layout-port_lay_screen.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/layout-port/lay_screen.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/drawable-ldpi_edittext_rounded_corners.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/drawable-ldpi/edittext_rounded_corners.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/layout-port_main.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/layout-port/main.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/layout-land_lay_screen.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/layout-land/lay_screen.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/drawable-ldpi_android.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/drawable-ldpi/android.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/layout-land_main.xml.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/layout-land/main.xml"
+    },
+    {
+        "merged": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/drawable-hdpi/icon.png"
+    }
+]

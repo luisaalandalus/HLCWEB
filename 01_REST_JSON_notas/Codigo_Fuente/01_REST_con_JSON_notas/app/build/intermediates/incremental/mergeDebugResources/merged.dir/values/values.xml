@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alumno">Alumno</string>
+    <string name="app_name">Acceso a Notas</string>
+    <string name="contraseña">Contraseña</string>
+</resources>

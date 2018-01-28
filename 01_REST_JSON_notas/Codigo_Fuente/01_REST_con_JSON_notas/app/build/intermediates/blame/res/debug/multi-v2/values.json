@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/luisaparragarcia/AndroidStudioProjects/HLCWEB/01_REST_JSON_notas/Codigo_Fuente/01_REST_con_JSON_notas/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "107,55,149",
+                        "endColumns": "41,51,49",
+                        "endOffsets": "144,102,194"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,97,149",
+                        "endColumns": "41,51,49",
+                        "endOffsets": "92,144,194"
+                    }
+                }
+            ]
+        }
+    ]
+}
